@@ -1,0 +1,6 @@
+GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. Ele permite 
+que desenvolvedores colaborem em projetos de software de forma eficiente, rastreando mudanças no código e 
+facilitando o trabalho em equipe. Além disso, o GitHub oferece recursos como pull requests, issues, e integração 
+contínua, que ajudam a melhorar a qualidade do software e a produtividade dos desenvolvedores. A plataforma também 
+é amplamente utilizada para compartilhar projetos de código aberto, permitindo que desenvolvedores de todo o mundo 
+contribuam para o desenvolvimento de software livre.

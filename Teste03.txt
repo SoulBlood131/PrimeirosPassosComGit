@@ -1,0 +1,13 @@
+Git é um sistema de controle de versão distribuído, amplamente utilizado por desenvolvedores para gerenciar o 
+histórico de alterações em projetos de software. Ele permite que múltiplos desenvolvedores trabalhem 
+simultaneamente em um mesmo projeto, mantendo um histórico detalhado de todas as modificações realizadas no código.
+
+GitHub é uma plataforma de hospedagem de repositórios Git na nuvem. Ele oferece uma interface web amigável e 
+diversas funcionalidades adicionais, como ferramentas de colaboração, integração contínua, e gerenciamento de 
+projetos. GitHub facilita o compartilhamento de código, a revisão de pull requests, e a colaboração em projetos 
+open source.
+
+O relacionamento entre Git e GitHub é que Git é a tecnologia subjacente que gerencia o versionamento do código, 
+enquanto GitHub é um serviço que hospeda repositórios Git e fornece ferramentas adicionais para facilitar a 
+colaboração e o gerenciamento de projetos. Juntos, eles formam uma poderosa combinação para o desenvolvimento de 
+software colaborativo.
